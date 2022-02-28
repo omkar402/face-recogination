@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'facereco-123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC9BEE37E7AD48869E069BFE17AFB40F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4CEDDB558834A2597CDCD9A12C575BB }}
